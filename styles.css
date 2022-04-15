@@ -1,1 +1,25 @@
-/* Copy and paste your CSS from CodePen into here */
+body {
+  font-family: verdana, system-ui;
+  background: #608f20;
+  color: white;
+  text-align: center;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+#img-caption {
+  font-style: italic;
+  padding-bottom: 20px;
+}
+
+#tribute-info {
+  text-align: left;
+}
